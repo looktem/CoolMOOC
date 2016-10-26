@@ -3,4 +3,4 @@
 
 [Princeton Algo Part 2](https://www.coursera.org/learn/java-data-structures-algorithms-2)
 
-[Stanford Crypto](https://www.coursera.org/learn/crypto)
+[Stanford Cryptography I](https://www.coursera.org/learn/crypto)
